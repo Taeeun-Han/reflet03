@@ -345,7 +345,7 @@ body {
     margin: 50px auto;
   }
   .wrap {
-    width: 539px;
+    width: 100%;
     margin: 30px auto;
   }
   .wrap .inner .section01 .title h2 {
